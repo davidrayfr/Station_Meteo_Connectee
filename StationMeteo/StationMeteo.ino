@@ -20,6 +20,7 @@ Version / Date / Commentaire / Auteur
 
 /***********  Ajout de bibliothèque  ************************************************/
 #include <dht.h> //Librairie pour le capteur DHT http://arduino.cc/playground/Main/DHTLib
+#include <Network_Setting.h> //Network settings: ssid & password in separate file
 
 /***********  Déclaration des CONSTANTES  *******************************************/
 #define DHT11_PIN 5 //The data I/O pin connected to the DHT11 sensor : GPIO5 = D1 of NodeMCU ESP8266 Board
