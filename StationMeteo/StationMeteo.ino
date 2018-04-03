@@ -5,7 +5,7 @@ Role
         Station météo connectée basée sur module NodeMCU ESP8266 Wifi
         Fonction :
           - Acquérir la température et l'hygrométrie avec un BME280
-          - Acquérir la pression atmosphérique (a venir)
+          - Acquérir la pression atmosphérique BME280
           - Mesurer la pluviométrie (a venir)
           - Mettre à disposition ces informations par l'intermédiare d'un serveur web
           - Transmettre ces informations sur un serveur distant (type thingspeak)
