@@ -4,7 +4,7 @@ Nom
 Role    
         Station météo connectée basée sur module NodeMCU ESP8266 Wifi
         Fonction :
-          - Acquérir la température et l'hygrométrie avec un DHT11
+          - Acquérir la température et l'hygrométrie avec un BME280
           - Acquérir la pression atmosphérique (a venir)
           - Mesurer la pluviométrie (a venir)
           - Mettre à disposition ces informations par l'intermédiare d'un serveur web
