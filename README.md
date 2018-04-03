@@ -15,6 +15,7 @@ Pressure
 
 Use I2CScanner to identified adresse
 Adresse for BME280 : 0x057
+Adresse for OLED :00xx00
 
 Information available also on OLED Screen
 Information available on WEB Server
