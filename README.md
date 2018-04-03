@@ -15,3 +15,7 @@ Pressure
 
 Use I2CScanner to identified adresse
 Adresse for BME280 : 0x057
+
+Information available also on OLED Screen
+Information available on WEB Server
+Information Available on Thinkspeak server
