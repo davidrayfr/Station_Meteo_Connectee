@@ -13,6 +13,9 @@ Temperature (°C)
 Humidity
 Pressure
 
+Gestion Battery (3 V)
+One Button for initialisation
+
 Use I2CScanner to identified adresse
 Adresse for BME280 : 0x057
 Adresse for OLED :00xx00
